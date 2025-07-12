@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "firstmod:block/blok_niedojrzalych_pomidorow_dol",
+    "up": "firstmod:block/blok_niedojrzalych_pomidorow_gora",
+    "north": "firstmod:block/blok_niedojrzalych_pomidorow_bok",
+    "south": "firstmod:block/blok_niedojrzalych_pomidorow_bok",
+    "west": "firstmod:block/blok_niedojrzalych_pomidorow_bok",
+    "east": "firstmod:block/blok_niedojrzalych_pomidorow_bok"
+  }
+}
